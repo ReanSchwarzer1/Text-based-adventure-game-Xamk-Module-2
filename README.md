@@ -6,9 +6,11 @@
 <h2 align="center"> This project was made in purpose for the Xamk Open University credited game design course. This is module 2</h2>  
 
 
-<h2 align="center"> Working Demo </h2> 
+<h2 align="center"> Working Demo & GDD</h2> 
 
 ![Demo1](https://github.com/ReanSchwarzer1/Text-based-adventure-game-Xamk-Module-2/blob/main/Misc/Game.gif "Demo1")
+
+[embed]https://github.com/ReanSchwarzer1/Text-based-adventure-game-Xamk-Module-2/blob/main/Misc/DesignDoc.pdf[/embed]
 
 <h2 align="center"> Design Document </h2>  
 
