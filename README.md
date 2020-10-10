@@ -1,1 +1,1 @@
-# Text-based-adventure-game-Xamk-Module-2
+# Text-based adventure game (Xamk Module 2)
