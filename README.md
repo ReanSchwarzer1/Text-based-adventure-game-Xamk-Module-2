@@ -16,7 +16,8 @@
 </p>
 
 
-<h2 align="center"> Working Demo </h2>  
+<h2 align="center"> Working Demo </h2> 
+
 <p align="center">
 ![Demo1](https://github.com/ReanSchwarzer1/Text-based-adventure-game-Xamk-Module-2/blob/main/Misc/Game.gif "Demo1")
 </p>
